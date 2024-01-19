@@ -6,7 +6,7 @@ int main()
     cout<<"enter number ";
     cin>>a>>b;
     cout<<"a="<<a<<"b="<<b<<endl;
-    cout<<"Before swap number is"<<a<<b<<endl;
+    cout<<"Before swap number is "<<a<<b<<endl;
     a=a+b;
     b=a-b;
     a=a-b;
